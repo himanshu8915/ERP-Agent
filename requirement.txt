@@ -6,3 +6,5 @@ tavily-python
 faiss-cpu 
 pypdf 
 sentence-transformers
+PyPDFLoader
+WebBaseLoader
