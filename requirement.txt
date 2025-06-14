@@ -7,3 +7,4 @@ faiss-cpu
 pypdf 
 sentence-transformers
 langchain-community
+langchain_community
